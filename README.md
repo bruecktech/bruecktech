@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Mastodon](https://mastodon.social/@bruecktech)
+<a rel="me" href="https://mastodon.social/@bruecktech">Mastodon</a>
 
 <!--
 **bruecktech/bruecktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
